@@ -16,15 +16,6 @@ LinkedIn: https://linkedin.com/in/rahul-chandra-shil
 <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,mysql,html,css,javascript" />
 </p>
 
-C#  
-C++  
-Java  
-Python  
-SQL  
-HTML  
-CSS  
-JavaScript  
-
 ---
 
 ## Tools
@@ -33,28 +24,27 @@ JavaScript
 <img src="https://skillicons.dev/icons?i=linux,vscode,anaconda" />
 </p>
 
-Google Colab  
-Jupyter Notebook  
-Linux  
-VS Code  
-Anaconda  
+<p>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?logo=jupyter&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
 ## GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSurgeon01&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSurgeon01&show_icons=true)
 
 ---
 
 ## Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=CyberSurgeon01&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=CyberSurgeon01)
 
 ---
 
 ## Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberSurgeon01&theme=github)](https://github.com/CyberSurgeon01)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberSurgeon01)](https://github.com/CyberSurgeon01)
 
 ---
