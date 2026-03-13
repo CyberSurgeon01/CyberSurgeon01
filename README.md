@@ -5,8 +5,25 @@
 
 ## Contact
 
-Email: rsrahulchandra@gmail.com  
-LinkedIn: https://linkedin.com/in/rahul-chandra-shil
+<p align="center">
+
+<a href="mailto:rsrahulchandra@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/rahul-chandra-shil">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/rahulchandrashil">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://www.researchgate.net/profile/Rahul-Chandra-Shil">
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -29,6 +46,7 @@ LinkedIn: https://linkedin.com/in/rahul-chandra-shil
 <img src="https://img.shields.io/badge/Jupyter-FA0F00?logo=jupyter&logoColor=white&style=for-the-badge" />
 </p>
 
+---
 
 ## Activity Graph
 
