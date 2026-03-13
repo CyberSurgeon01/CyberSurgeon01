@@ -33,12 +33,12 @@ LinkedIn: https://linkedin.com/in/rahul-chandra-shil
 
 ## GitHub Statistics
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSurgeon01&show_icons=true&theme=radical)
+##![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSurgeon01&show_icons=true&theme=radical)
 ---
 
 ## Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=CyberSurgeon01&theme=dark)
+##![GitHub Streak](https://streak-stats.demolab.com/?user=CyberSurgeon01&theme=dark)
 
 ---
 
