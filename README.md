@@ -1,59 +1,60 @@
-<h1 align="center">Hi 👋, I'm Rahul Chandra Shil</h1>
-<h3 align="center">Machine Learning | NLP | Data Science</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CyberSurgeon01&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<h1 align="center">Rahul Chandra Shil</h1>
+<h3 align="center">Machine Learning and Data Science</h3>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on **Bangla NLP & Idiom Detection Dataset**
-- 🌱 Learning **Machine Learning & Deep Learning**
-- 💬 Ask me about **Python, NLP, Data Science**
-- 📫 Reach me: **rahul@example.com**
+## Contact
+
+Email: rsrahulchandra@gmail.com  
+LinkedIn: https://linkedin.com/in/rahul-chandra-shil
 
 ---
 
-### 🌐 Connect with me
+## Languages
+
 <p>
-<a href="https://linkedin.com/in/rahul-chandra-shil">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
-</a>
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,mysql,html,css,javascript" />
 </p>
+
+C#  
+C++  
+Java  
+Python  
+SQL  
+HTML  
+CSS  
+JavaScript  
 
 ---
 
-### ⚙️ Languages and Tools
+## Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,html,css"/>
+<img src="https://skillicons.dev/icons?i=linux,vscode,anaconda" />
 </p>
 
----
-
-### 📊 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSurgeon01&show_icons=true&theme=radical)
-
----
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=CyberSurgeon01&theme=dark)
+Google Colab  
+Jupyter Notebook  
+Linux  
+VS Code  
+Anaconda  
 
 ---
 
-### 📈 Activity Graph
-[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberSurgeon01&theme=github-dark)](https://github.com/CyberSurgeon01)
+## GitHub Statistics
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSurgeon01&show_icons=true&theme=default)
 
+---
 
+## Contribution Streak
 
-# Rahul Chandra Shil
+![GitHub Streak](https://streak-stats.demolab.com/?user=CyberSurgeon01&theme=default)
 
-##  GitHub Contribution Graph
-[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberSurgeon01&theme=github-dark)](https://github.com/CyberSurgeon01)
+---
 
-##  GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSurgeon01&show_icons=true&theme=radical)
+## Activity Graph
 
-##  GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=CyberSurgeon01&theme=dark)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberSurgeon01&theme=github)](https://github.com/CyberSurgeon01)
+
+---
