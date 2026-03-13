@@ -1,5 +1,6 @@
-<h1 align="center">Rahul Chandra Shil</h1>
-<h3 align="center">Machine Learning and Data Science</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rahul%20Chandra%20Shil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20•%20Data%20Science&descAlignY=55&descAlign=50"/>
+</p>
 
 ---
 
@@ -38,12 +39,12 @@
 ## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,vscode,anaconda" />
+<img src="https://skillicons.dev/icons?i=linux,vscode,anaconda,github" />
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?logo=jupyter&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
