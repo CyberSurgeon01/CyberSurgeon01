@@ -1,27 +1,23 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rahul%20Chandra%20Shil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20•%20Data%20Science&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e293b&height=240&section=header&text=Rahul%20Chandra%20Shil&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Machine%20Learning%20•%20Data%20Science&descAlignY=60"/>
 </p>
-
----
-
-## Contact
 
 <p align="center">
 
 <a href="mailto:rsrahulchandra@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/rahul-chandra-shil">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.kaggle.com/rahulchandrashil">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
 </a>
 
 <a href="https://www.researchgate.net/profile/Rahul-Chandra-Shil">
-<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"/>
 </a>
 
 </p>
