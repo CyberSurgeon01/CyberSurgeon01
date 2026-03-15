@@ -14,19 +14,39 @@
 
 ## Research Interests
 
-- Natural Language Processing for Low-Resource Languages  
-- Bengali Language Datasets and NLP Resources  
-- Machine Learning for Educational Technology  
-- Dataset Construction and Data Annotation  
+- Natural Language Processing for Low-Resource Languages
+- Bengali Language Datasets and NLP Resources
+- Machine Learning for Educational Technology
+- Dataset Construction and Data Annotation
 - Intelligent Tutoring Systems
 
 ---
 
 ## Publications / Research Work
 
-- **SSC-BanglaTutor: A Curriculum-Aligned Bengali Dataset for Intelligent Tutoring Systems**  
-  *Data in Brief, 2026*  
-  DOI: https://doi.org/10.1016/j.dib.2026.112597  
+- **SSC-BanglaTutor: A Curriculum-Aligned Bengali Dataset for Intelligent Tutoring Systems**
+  *Data in Brief, 2026*
+  DOI: https://doi.org/10.1016/j.dib.2026.112597
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 CineMatch — Intelligent Movie Recommendation System
+> A content-based movie recommendation engine that analyzes 7 user preferences and returns the single best matching film from 900,000+ titles.
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-cinematch-e50914?style=for-the-badge)](https://cinematch-vew4.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/CyberSurgeon01/cinematch)
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+- Multi-criteria scoring algorithm using Bayesian weighted rating formula
+- Supports 8+ languages including Bengali, Korean, Japanese and more
+- Deployed live on Render.com with Glassmorphism UI design
 
 ---
 
@@ -41,9 +61,8 @@
 ## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,vscode,visualstudio,anaconda,github" />
+<img src="https://skillicons.dev/icons?i=linux,vscode,visualstudio,anaconda,github,figma,flask" />
 </p>
-
 <p>
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" />
@@ -61,13 +80,11 @@
 
 ---
 
----
-
 ## Open Source Contributions
 
-- Contributing to Machine Learning and Data Science repositories  
-- Building datasets for Natural Language Processing  
-- Maintaining open-source projects on GitHub  
+- Contributing to Machine Learning and Data Science repositories
+- Building datasets for Natural Language Processing
+- Maintaining open-source projects on GitHub
 
 ---
 
