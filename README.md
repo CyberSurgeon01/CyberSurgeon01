@@ -35,7 +35,7 @@
 ### 🎬 CineMatch — Intelligent Movie Recommendation System
 > A content-based movie recommendation engine that analyzes 7 user preferences and returns the single best matching film from 900,000+ titles.
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-cinematch-e50914?style=for-the-badge)](https://cinematch-vew4.onrender.com)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-cinematch-e50914?style=for-the-badge)](https://cinematch-production-10ae.up.railway.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/CyberSurgeon01/cinematch)
 
 **Tech Stack:**
