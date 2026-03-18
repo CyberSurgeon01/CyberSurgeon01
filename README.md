@@ -9,7 +9,7 @@
 <a href="https://www.researchgate.net/profile/Rahul-Chandra-Shil"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"/></a>
 <a href="https://orcid.org/0009-0006-9553-3580"><img src="https://img.shields.io/badge/ORCID-0009--0006--9553--3580-green"/></a>
 </p>
-
+  
 ---
 
 ## Research Interests
