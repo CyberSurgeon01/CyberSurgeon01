@@ -24,8 +24,8 @@
 
 ## Publications / Research Work
 
-- **SSC-BanglaTutor: A Curriculum-Aligned Bengali Dataset for Intelligent Tutoring Systems**
-  *Data in Brief, 2026*
+- **SSC-BanglaTutor: A Curriculum-Aligned Bengali Dataset for Intelligent Tutoring Systems**  
+  *Data in Brief, 2026*  
   DOI: https://doi.org/10.1016/j.dib.2026.112597
 
 ---
@@ -38,7 +38,7 @@
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-cinematch-e50914?style=for-the-badge)](https://cinematch-production-10ae.up.railway.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/CyberSurgeon01/cinematch)
 
-**Tech Stack:**
+**Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -53,7 +53,7 @@
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,html,css,javascript,php" />
 </p>
 
 ---
