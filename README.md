@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CyberSurgeon01&style=for-the-badge&color=2a6f97&label=VISITORS" alt="Visitor Count"/>
-</p>
+</p> 
 
 <p align="center">
 <a href="mailto:rsrahulchandra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
