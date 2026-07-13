@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d3557,50:2a6f97,100:61a5c2&height=240&section=header&text=Rahul%20Chandra%20Shil&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Machine%20Learning%20•%20Data%20Science&descAlignY=60"/>
 </p>  
-
+  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CyberSurgeon01&style=for-the-badge&color=2a6f97&label=VISITORS" alt="Visitor Count"/>
 </p> 
