@@ -34,6 +34,24 @@
 
 ## 🚀 Featured Projects
 
+### 🎓 GyanGrid AI — AI-Powered Research Paper Analysis Platform
+> A full-stack, bilingual (English/Bangla) RAG platform that lets researchers upload PDF/DOCX papers and instantly explore them — AI summaries, novelty & research-gap detection, side-by-side paper comparison, citation graphs, related-paper discovery, and text-to-speech.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/CyberSurgeon01/gyangrid-ai)
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4267B2?style=flat&logo=meta&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+
+- Retrieval-Augmented Generation (RAG) Q&A grounded directly in the uploaded paper, via FAISS + Google Gemini
+- AI-generated summaries, novelty/research-gap analysis, and reviewer-question prediction
+- Side-by-side paper comparison with AI verdict scoring, plus citation graph visualization
+- Related-paper discovery via OpenAlex and Semantic Scholar APIs, TTS narration (gTTS), and PDF export
+- Flexible auth (email/password, Google OAuth, OTP email verification, guest mode) backed by Supabase
+
 ### 🎬 CineMatch — Intelligent Movie Recommendation System
 > A content-based movie recommendation engine that analyzes 7 user preferences and returns the single best matching film from 900,000+ titles.
 
@@ -98,13 +116,16 @@
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-4267B2?logo=meta&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/gTTS-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
 ## Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,supabase" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
