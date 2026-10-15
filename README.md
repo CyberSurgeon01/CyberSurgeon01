@@ -7,6 +7,7 @@
 </p> 
   
 <p align="center" >
+<a href="https://rahulchandrashil.vercel.app/#projects"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
 <a href="mailto:rsrahulchandra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/rahul-chandra-shil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.kaggle.com/rahulchandrashil"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
@@ -86,6 +87,8 @@
 - Ridge Regression for salary range prediction from job descriptions
 - Logistic Regression for industry classification (top-20 industries, confidence-ranked)
 - Resume parsing (PDF/DOCX) with automatic skill extraction and job matching
+
+[![Portfolio](https://img.shields.io/badge/🌐%20See%20all%20projects-Portfolio-000000?style=for-the-badge)](https://rahulchandrashil.vercel.app/#projects)
 
 ---
 
